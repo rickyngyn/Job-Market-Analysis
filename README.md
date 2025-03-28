@@ -36,4 +36,4 @@ python analyze.py
 ```
 
 ## Tableau Visualizations
-### Explore the interactive dashboard here: [Tableau Public Link] (https://public.tableau.com/shared/KW8B5X9W9?:display_count=n&:origin=viz_share_link)
+### Explore the interactive dashboard here: [Tableau Public Link](https://public.tableau.com/shared/KW8B5X9W9?:display_count=n&:origin=viz_share_link).
