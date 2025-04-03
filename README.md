@@ -3,7 +3,7 @@
 A data-driven project that scrapes, processes, and analyzes job market trends for software-related roles in Canada. This project extracts job listings, cleans salary data, and visualizes insights using Python (Selenium, Pandas) and Tableau.
 
 ## 🚀 Project Overview
-* Scraped job data from Glassdoor using Selenium=
+* Scraped job data from Glassdoor using Selenium
 * Cleaned and preprocessed salary data (converted ranges, hourly to annual) using Pandas
 * Stored structured data in CSV format for further analysis
 * Analyzed trends such as salary distributions, common job titles, and top employers
